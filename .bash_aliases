@@ -8,7 +8,7 @@ alias py3='python3'
 alias e='vim'
 
 alias gc='git commit'
-alias gch='git checokout'
+alias gch='git checkout'
 alias gchm='git checkout master'
 alias gp='git push'
 alias gpo='git push origin'
