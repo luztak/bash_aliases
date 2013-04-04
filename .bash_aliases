@@ -1,8 +1,5 @@
 alias z='cd ~/works'
 
-alias zx='cd ~/works/z0/back'
-alias zc='cd ~/works/z0/front'
-
 alias py='python'
 alias py3='python3'
 alias e='vim'
